@@ -11,7 +11,7 @@ NeonFrame is a modern and responsive movie rental platform built using **React.j
 - 📦 Global state management using Context API
 - 📐 Clean component structure and layout
 - 📊 Data flow designed with state lifting and separation of concerns
-- 🧠 Project planned and flow drafted using [Excalidraw]([https:///](https://docs.google.com/document/d/1sWX9GKZ7Wgjp-z9I8L52D25qG3b8TRNV04q_ZP3Ri_s/edit?usp=sharing))
+- 🧠 Project planned and flow drafted using [Excalidraw](https://docs.google.com/document/d/1sWX9GKZ7Wgjp-z9I8L52D25qG3b8TRNV04q_ZP3Ri_s/edit?usp=sharing)
 - 💡 Followed React best practices:
   - Reusable and scalable components
   - Smart vs dumb component separation
